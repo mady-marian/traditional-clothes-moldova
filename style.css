@@ -131,5 +131,14 @@ td{
 .justify-image:after{content:""; display: inline-block; width: 100%; height: 0;}
 
 img{
-    border: 1px solid orange;
+    border: 1px solid black;
+}
+
+footer{
+    width: 100%;
+    justify-content: space-between;
+    display: inline-block;
+    padding: 10px 20px;
+    align-items: center;
+    background-color:powderblue;
 }
